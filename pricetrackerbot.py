@@ -52,7 +52,7 @@ print(iphone_price_float)
 #email server config
 my_email = "rubanmercy1@gmail.com"
 password = "yjgtvdwnpoealdra"
-receiver_email = "ruban.raj@amagi.com"
+receiver_email = "rubanmercy1@gmail.com"
 
 product_title = soup.find(class_="a-size-large product-title-word-break").get_text()
 print(product_title)
